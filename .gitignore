@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/nanoFramework.IO/config
+/.vs/nanoFramework.IO/FileContentIndex
+*.wsuo
+*.sqlite
+/.vs
+/nanoFramework.IO/.vs/nanoFramework.IO
+/nanoFramework.IO/nanoFramework.IO.RP2040/bin/Debug
+/nanoFramework.IO/nanoFramework.IO.RP2040/obj/Debug
+/nanoFramework.IO/RP2040TestIO/obj/Debug
+/nanoFramework.IO/RP2040TestIO/bin/Debug
+/nanoFramework.IO/packages
